@@ -6,7 +6,7 @@ Description:
 This project is part of the Codsoft UI/UX Internship and focuses on designing and implementing an intuitive, user-friendly Mobile App Signup Flow. The goal was to create a seamless experience for users to register while ensuring security, personalization, and simplicity.
 
 My Role
-As the UI/UX designer and developer I d esigned the user interface (UI) for the signup flow.
+As the UI/UX designer and developer I designed the user interface (UI) for the signup flow.
 Addressed user experience (UX) challenges to enhance usability.
 
 Challenges
