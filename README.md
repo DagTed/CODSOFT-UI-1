@@ -2,7 +2,7 @@
 An intuitive and easy to use mobile signup flow
 
 
-Description
+Description:
 This project is part of the Codsoft UI/UX Internship and focuses on designing and implementing an intuitive, user-friendly Mobile App Signup Flow. The goal was to create a seamless experience for users to register while ensuring security, personalization, and simplicity.
 
 My Role
